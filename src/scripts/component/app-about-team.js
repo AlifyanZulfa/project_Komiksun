@@ -1,4 +1,4 @@
-class AppDevTeam extends HTMLElement {
+class AppAboutTeam extends HTMLElement {
   connectedCallback() {
     this._render();
   }
@@ -120,4 +120,4 @@ class AppDevTeam extends HTMLElement {
   }
 }
 
-customElements.define('app-dev-team', AppDevTeam);
+customElements.define('app-about-team', AppAboutTeam);

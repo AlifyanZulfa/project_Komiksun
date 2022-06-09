@@ -23,7 +23,7 @@ class AppWelcome extends HTMLElement {
                     <p class='subtitle'>Dengan adanya web ini pengguna dapat mempublis karya komik yang anda buat, serta anda juga bisa menikamati komik favorit anda.</p>
                   </div>
                   <div class="col-lg-5">
-                    <img class='img-fluid welcome-img' src="" alt="welcome" />
+                    <img class='img-fluid welcome-img' src="" alt="logo 2" />
                   </div>
                 </div>
             </section>

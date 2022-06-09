@@ -1,4 +1,4 @@
-class AppCategory extends HTMLElement {
+class AppGenre extends HTMLElement {
   connectedCallback() {
     this._render();
   }
@@ -18,4 +18,4 @@ class AppCategory extends HTMLElement {
   }
 }
 
-customElements.define('app-category-bar', AppCategory);
+customElements.define('app-genre-bar', App);

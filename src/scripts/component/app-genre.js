@@ -41,4 +41,4 @@ class AppCategory extends HTMLElement {
   }
 }
 
-customElements.define('app-category', AppCategory);
+customElements.define('app-genre', AppCategory);

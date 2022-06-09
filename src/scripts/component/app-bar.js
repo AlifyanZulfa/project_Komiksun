@@ -42,7 +42,7 @@ class AppBar extends HTMLElement {
                 <a class="nav-link active nav__item" aria-current="page" href="#/home">Beranda</a>
                 <a class="nav-link active nav__item" href="#/explore">Genre</a>
                 <a class="nav-link active nav__item" href="#/favorite">Favorit</a>
-                <a class="nav-link active nav__item" href="#/publiser">publis</a>
+                <a class="nav-link active nav__item" href="#/publis">Publis</a>
                 <a class="nav-link active nav__item" href="#/about">About Us</a>
               </div>
             </div>

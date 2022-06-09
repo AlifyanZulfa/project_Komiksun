@@ -1,11 +1,11 @@
-import '../../component/app-dev-team';
-import '../../component/app-aboutus';
+import '../../component/app-about-team';
+import '../../component/app-about-us';
 
 const About = {
   async render() {
     return `
-          <app-aboutus></app-aboutus>
-          <app-dev-team></app-dev-team>
+          <app-about-us></app-about-us>
+          <app-about-team></app-about-team>
           `;
   },
 

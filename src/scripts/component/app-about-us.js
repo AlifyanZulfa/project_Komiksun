@@ -52,4 +52,4 @@ class AppAboutUs extends HTMLElement {
   }
 }
 
-customElements.define('app-aboutus', AppAboutUs);
+customElements.define('app-about-us', AppAboutUs);
